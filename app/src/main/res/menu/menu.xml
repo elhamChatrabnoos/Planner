@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/off_alarm_menu_txt"
+        android:id="@+id/off_alarm_menu"
+        android:orderInCategory="0" />
+
+    <item
+        android:title="@string/delete_all"
+        android:id="@+id/delete_all"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/search_btn"
+        android:title="search_items"
+        app:showAsAction="always"
+        android:icon="@drawable/search_icon"
+
+        app:actionViewClass="android.widget.SearchView" />
+
+
+</menu>

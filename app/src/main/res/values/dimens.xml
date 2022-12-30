@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardCornerRdius">5dp</dimen>
+    <dimen name="elevationSize">6dp</dimen>
+    <dimen name="marginSize">15dp</dimen>
+    <dimen name="paddingSize">10dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="margin_right">20dp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="margin_bottom">2dp</dimen>
+
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="image_size">25dp</dimen>
+    <dimen name="editTextHeight">30dp</dimen>
+    <dimen name="editTextWidth">100dp</dimen>
+    <dimen name="editTextRadius">5dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="text_width">150dp</dimen>
+    <dimen name="work_recycler_margin">5dp</dimen>
+    <dimen name="margin_top_card">10dp</dimen>
+    <dimen name="big_text">23sp</dimen>
+    <dimen name="clock_text_width">40dp</dimen>
+    <dimen name="clock_text_size">12sp</dimen>
+    <dimen name="margin_bottom_dy_re">10dp</dimen>
+    <dimen name="margin_left_splash">100dp</dimen>
+    <dimen name="imgSwi_width">150dp</dimen>
+    <dimen name="imgSwi_height">150dp</dimen>
+    <dimen name="work_recyc_height">300dp</dimen>
+    <dimen name="plus_img_width">30dp</dimen>
+    <dimen name="plus_img_height">30dp</dimen>
+    <dimen name="work_item_padding">10dp</dimen>
+    <dimen name="marginTop_work">5dp</dimen>
+    <dimen name="splash_txt_size">15sp</dimen>
+    <dimen name="widget_radius">20dp</dimen>
+    <dimen name="image_size2">70dp</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:gravity="right"
+    >
+
+    <ImageView
+        android:id="@+id/widget_done_img"
+        android:layout_width="@dimen/image_size"
+        android:layout_height="@dimen/image_size"
+        android:background="@null"
+        android:layout_marginStart="50dp"
+        android:src="@drawable/gray_done"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:id="@+id/txt_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="work name"
+        android:layout_margin="10dp" />
+
+</LinearLayout>

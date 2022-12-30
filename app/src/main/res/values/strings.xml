@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">پلن ریز</string>
+    <string name="current_date">دوشنبه 22 فروردین 1400</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="off_alarm_menu_txt">خاموش کردن همه اعلان ها</string>
+    <string name="item2_txt">عوض کردن تم</string>
+    <string name="work">فعالیت</string>
+    <string name="addWorkDialogTitle">اضافه کردن فعالیت</string>
+    <string name="save">ذخیره</string>
+    <string name="workName">نام فعالیت</string>
+    <string name="work_date">تاریخ</string>
+    <string name="alarm_clock">ساعت هشدار</string>
+    <string name="work_max_time">حداکثر زمان انجام</string>
+    <string name="save_done">فعالیت مورد نظر ذخیره شد</string>
+    <string name="cancel">برگرد</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="empty_field_message">نام فعالیت را وارد نمایید</string>
+    <string name="delete_all">حذف همه فعالیت ها</string>
+    <string name="date_dialog_button">جست و جو</string>
+    <string name="clock_txt">ساعت</string>
+    <string name="work_txt">کارها</string>
+    <string name="enter_btn">وارد شو</string>
+    <string name="splash_text">یک هدف بدون برنامه ریزی تنها یک آرزوست</string>
+    <string name="off_alarm_txt">خاموش</string>
+    <string name="off_all_txt">اعلان های امروز را خاموش کن.</string>
+    <string name="do_work_txt">ساعت انجام کار</string>
+    <string name="alarm_turned_off">اعلان خاموش شد</string>
+    <string name="turn_off_all_done">همه اعلان ها خاموش شدند</string>
+    <string name="clock_text">10:25</string>
+    <string name="no_activity_text">فعالیتی اضافه نشده است.</string>
+    <string name="update_done_txt">فعالیت با موفقیت ویرایش شد.</string>
+    <string name="insert_done_txt">فعالیت اضافه شد.</string>
+    <string name="gr_date_txt">26 ژانویه 2021</string>
+    <string name="delete_all_activity_txt">همه فعالیت ها در تمامی روزها حذف شوند؟</string>
+    <string name="delete_all_alarm_txt">همه اعلان ها در تمامی روزها خاموش شوند؟</string>
+</resources>

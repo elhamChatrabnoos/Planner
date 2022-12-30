@@ -1,0 +1,49 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/Theme.Planner.AppWidgetContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/mainLayout">
+
+        <TextView
+            android:id="@+id/widDateTxt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/app_widget_background"
+            android:textSize="@dimen/big_text"
+            android:padding="25dp"
+            android:text="@string/current_date"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/text_color" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/refresh_button"
+            android:src="@drawable/refresh_icon"
+            android:background="@color/widget_color"
+            android:paddingBottom="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nested_layout"
+            android:orientation="vertical"
+            android:background="@color/white">
+
+
+                <TextView
+                    android:id="@+id/no_activity"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/text_size"
+                    android:padding="25dp"
+                    android:text="@string/no_activity_text"
+                    android:gravity="center"
+                    android:textColor="#CCA6A1A1" />
+
+        </LinearLayout>
+
+</LinearLayout>
